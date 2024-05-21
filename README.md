@@ -9,7 +9,7 @@
 
 Computer Science Student, Following my journey as a programmer!
 <br><br><br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador">
+<img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" min-width="300px" max-width="300px" width="300px" alt="Computador">
 </div>
 
 <h2>MAIN SKILLS :</h2>
