@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src= "https://cdn.pixabay.com/photo/2018/05/04/06/39/banner-3373346_1280.jpg"/>
+<img width=100% bottom=50px src= "https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_188887.jpg"/>
 
 <br>
 
@@ -6,7 +6,8 @@
 <br><br>
 
 <div align="center">
-Tenho 18 anos, estudante de Ciencia da computação, seguindo minha jornada como programador!
+
+Computer Science Student, Following my journey as a programmer!
 <br><br><br>
 <img width=20% bottom=50px src ="https://cdn-icons-png.flaticon.com/512/1005/1005141.png">
 </div>
@@ -24,7 +25,7 @@ Tenho 18 anos, estudante de Ciencia da computação, seguindo minha jornada como
 </div>
   
   <br>
- <h2>REDE SOCIAIS :</h2>
+ <h2>CONTACTS :</h2>
 <div> 
   <a href="https://www.instagram.com/j.sand3s_?igsh=ZjRrN3JqbG9jM3Rn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
