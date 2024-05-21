@@ -9,7 +9,7 @@
 
 Computer Science Student, Following my journey as a programmer!
 <br><br><br>
-<img width=20% bottom=50px src ="https://cdn-icons-png.flaticon.com/512/1005/1005141.png">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" alt="Computador">
 </div>
 
 <h2>MAIN SKILLS :</h2>
@@ -29,6 +29,8 @@ Computer Science Student, Following my journey as a programmer!
 <div> 
   <a href="https://www.instagram.com/j.sand3s_?igsh=ZjRrN3JqbG9jM3Rn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "misterio19101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "josesandesofc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-ant%C3%B4nio-sandes-551242235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+<br/><br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
