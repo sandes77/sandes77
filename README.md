@@ -21,6 +21,21 @@ Computer Science Student, Following my journey as a programmer!
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+
+<br>
+
+<h2>WORKSTATION TOOLS :</h2>
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
+<a href="https://desktop.github.com/">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop">
+</a>
+&nbsp;
+<a href="https://www.phpmyadmin.net/">
+  <img src="https://img.shields.io/badge/phpMyAdmin-%2343853D.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" style="background-color: orange;">
+</a>
 
 <br>
 
